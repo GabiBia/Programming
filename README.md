@@ -1,2 +1,2 @@
-"# Programming" 
+# Programming
 Various C++ tests.
